@@ -2,7 +2,7 @@
 实现公众号链接寻址，图片多进程下载，合成pdf
 
 # 开发环境
-Python 3.7\n
+Python 3.7\t\n
 Requests
 PyMuPDF(fitz)  python的一个第三方pdf库
 Multiprocessing Pool
