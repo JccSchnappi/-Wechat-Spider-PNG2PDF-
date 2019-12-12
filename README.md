@@ -20,3 +20,7 @@ Multiprocessing Pool
   
 内容来源：博瑞智创汽车技术平台  
 https://mp.weixin.qq.com/s?__biz=MzI5Mjc4NjkyNQ==&mid=2247509474&idx=1&sn=f5b3c1b082e168f6dff54bcdd56dbd9a&chksm=ec7ee260db096b763fb23c03095fe8b354fa02ebcbdbfeaef14ac2ae990a8f792cb6ef164351&scene=21#wechat_redirect
+
+
+# Todo List
+将网页bytes类型图片数据，直接转换为PyMuPDF可以打开的数据类型，省去保存png，最后合成pdff后再删除png的环节
